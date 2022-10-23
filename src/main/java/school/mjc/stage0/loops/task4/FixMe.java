@@ -12,5 +12,6 @@ public class FixMe {
 
         }
         System.out.println("will I be printed?");
+
     }
 }
